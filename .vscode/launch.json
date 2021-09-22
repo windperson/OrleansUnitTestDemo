@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/test/HelloWorld.Grains.Testing/bin/Debug/net5.0/HelloWorld.Grains.Testing.dll",
+            "program": "${workspaceFolder}/test/HelloWorld.Grains.Tests/bin/Debug/net5.0/HelloWorld.Grains.Tests.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/test/HelloWorld.Grains.Testing",
+            "cwd": "${workspaceFolder}/test/HelloWorld.Grains.Tests",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

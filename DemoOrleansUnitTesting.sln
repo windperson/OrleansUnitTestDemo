@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Interfaces", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Grains", "src\HelloWorld.Grains\HelloWorld.Grains.csproj", "{C2CF5972-277C-460B-B86B-949F74E91734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Grains.Testing", "test\HelloWorld.Grains.Testing\HelloWorld.Grains.Testing.csproj", "{A8B937CF-0A13-43A9-87BE-80FA0748E666}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Grains.Tests", "test\HelloWorld.Grains.Tests\HelloWorld.Grains.Tests.csproj", "{A8B937CF-0A13-43A9-87BE-80FA0748E666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

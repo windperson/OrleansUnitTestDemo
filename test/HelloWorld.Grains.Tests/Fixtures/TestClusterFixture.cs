@@ -2,7 +2,7 @@
 using Orleans.Hosting;
 using Orleans.TestingHost;
 
-namespace HelloWorld.Grains.Testing.Fixtures
+namespace HelloWorld.Grains.Tests.Fixtures
 {
     // ReSharper disable once ClassNeverInstantiated.Global
     public class TestClusterFixture : IDisposable

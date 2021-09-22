@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Threading.Tasks;
-using HelloWorld.Grains.Testing.Fixtures;
+using HelloWorld.Grains.Tests.Fixtures;
 using HelloWorld.Interfaces.HelloWorld.Interfaces;
 using Orleans.TestingHost;
 using Xunit;
 
-namespace HelloWorld.Grains.Testing
+namespace HelloWorld.Grains.Tests
 {
     [Collection(TestClusterCollectionFixture.Name)]
     public class HelloGrainTests

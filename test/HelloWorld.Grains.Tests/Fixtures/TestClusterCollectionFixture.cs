@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace HelloWorld.Grains.Testing.Fixtures
+namespace HelloWorld.Grains.Tests.Fixtures
 {
     [CollectionDefinition(Name)]
     public class TestClusterCollectionFixture : ICollectionFixture<TestClusterFixture>
